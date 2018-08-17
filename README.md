@@ -4,7 +4,7 @@
 Um cartão de aniversário
 
 ### Como fazer para ver?
-Só clonar o repositório e abrir o _index.html
+Só clonar o repositório e abrir o _index.html_
 
 ### E se não gostar
 Bem... É só apagar rs
